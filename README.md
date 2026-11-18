@@ -19,6 +19,11 @@ Select text anywhere on your Mac, tap one key, hear it read aloud. Local, privat
 An offline, visual course following Lamport's TLA+ video lectures and going beyond them, with problem sets built from real systems and every spec checked with TLC.<br>
 <sub>TLA+ · HTML/JS · Python · Swift + Rust macOS app</sub> · [Take the course](https://sxxrfx.github.io/tla-plus-course/)
 
+### [skills-update](https://github.com/sxxrfx/skills-update)
+
+One command that updates the agent skills and plugins for every coding agent on your machine (Claude Code, Codex, Gemini CLI, OpenCode, Cursor and others), and can run itself every day.<br>
+<sub>Node.js · macOS launchd</sub>
+
 ### BookWyrm <sub>in progress</sub>
 
 <img src="assets/bookwyrm.webp" alt="BookWyrm: a calm place to read. Highlights and notes, read aloud, themes and fonts, EPUB import. Shown on three phones: the home screen, the reader, and a book page in dark mode.">
